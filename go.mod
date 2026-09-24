@@ -7,7 +7,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.14.1
 	github.com/glebarez/sqlite v1.11.0
 	github.com/golang-jwt/jwt/v5 v5.3.1
-	github.com/microsoft/kiota-abstractions-go v1.10.1
+	github.com/microsoft/kiota-abstractions-go v1.11.0
 	github.com/microsoftgraph/msgraph-sdk-go v1.102.0
 	github.com/microsoftgraph/msgraph-sdk-go-core v1.4.1
 	github.com/stretchr/testify v1.12.1
