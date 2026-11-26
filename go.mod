@@ -7,7 +7,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.15.0
 	github.com/glebarez/sqlite v1.11.0
 	github.com/golang-jwt/jwt/v5 v5.3.1
-	github.com/microsoft/kiota-abstractions-go v1.11.4
+	github.com/microsoft/kiota-abstractions-go v1.12.2
 	github.com/microsoftgraph/msgraph-sdk-go v1.105.0
 	github.com/microsoftgraph/msgraph-sdk-go-core v1.4.1
 	github.com/stretchr/testify v1.12.1
@@ -36,7 +36,7 @@ require (
 	github.com/ncruces/go-strftime v1.1.0 // indirect
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
-	github.com/std-uritemplate/std-uritemplate/go/v2 v2.0.12 // indirect
+	github.com/std-uritemplate/std-uritemplate/go/v2 v2.0.13 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.47.0 // indirect
 	go.opentelemetry.io/otel/log v1.47.0 // indirect
