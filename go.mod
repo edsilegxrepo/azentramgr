@@ -8,7 +8,7 @@ require (
 	github.com/glebarez/sqlite v1.11.0
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/microsoft/kiota-abstractions-go v1.11.4
-	github.com/microsoftgraph/msgraph-sdk-go v1.105.0
+	github.com/microsoftgraph/msgraph-sdk-go v1.107.0
 	github.com/microsoftgraph/msgraph-sdk-go-core v1.4.1
 	github.com/stretchr/testify v1.12.1
 	golang.org/x/time v0.16.0
